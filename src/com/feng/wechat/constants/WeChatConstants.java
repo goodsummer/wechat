@@ -5,12 +5,12 @@ public class WeChatConstants {
 	/**
 	 * appid
 	 */
-	public static final String APP_ID = "wxa35f66a8444b1ac2";
+	public static final String APP_ID = "xxxxxxxxxxxxxxxxx";
 	
 	/**
 	 * appsecret
 	 */
-	public static final String APPSECRET = "5b8764266f5cb52a806b910b29b01aae";
+	public static final String APPSECRET = "xxxxxxxxxxxxxxxxxxxx";
 	
 	/**
 	 * token
